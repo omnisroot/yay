@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://kumavis.github.io/kumavOS/';
+        iframe.src = 'https://omnisroot.github.io/yay/';
         /**
          * Use dev server is query params are present
          *
